@@ -1,0 +1,5 @@
+laundary_backend\LaundaryBackendApplication.class
+laundary_backend\service\OrderServiceImpl.class
+laundary_backend\repository\OrderRepo.class
+laundary_backend\Cloudinary\CloudConfig.class
+laundary_backend\controllers\OrderController.class
