@@ -81,33 +81,6 @@ A modern, full-featured laundry management system built with React, Vite, and pl
 - **Styling**: Plain CSS with CSS Variables
 - **State Management**: React Hooks (useState, useEffect)
 
-## Project Structure
-
-```
-laundary-cp-1/
-├── src/
-│   ├── pages/
-│   │   ├── auth/
-│   │   │   ├── Login.jsx
-│   │   │   ├── Register.jsx
-│   │   │   └── Auth.css
-│   │   ├── customer/
-│   │   │   ├── Dashboard.jsx
-│   │   │   ├── Dashboard.css
-│   │   │   ├── CreateOrder.jsx
-│   │   │   ├── CreateOrder.css
-│   │   │   └── OrderTracking.jsx
-│   │   └── shop-owner/
-│   │       └── Dashboard.jsx
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── vite.config.js
-└── package.json
-```
-
 ## Installation & Setup
 
 1. **Install Dependencies**
